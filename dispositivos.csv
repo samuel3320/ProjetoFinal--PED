@@ -1,0 +1,14 @@
+tipo,nome,ip,mac
+switch,SW0,192.168.0.1,E3:42:56:33:4B:A1
+switch,SW1,192.168.0.11,38:A4:65:A6:61:5C
+switch,SW2,192.168.1.1,D9:12:28:B6:DF:A3
+switch,SW3,192.168.2.10,F9:12:28:B6:DF:A4
+computador,PC0,192.168.0.12,77:87:01:0C:1E:A6
+computador,PC1,192.168.0.11,01:7F:6C:29:3A:31
+computador,PC2,192.168.0.10,41:12:96:A0:E2:7E
+computador,PC3,10.0.0.10,E8:51:28:27:93:92
+computador,PC4,10.0.0.11,A3:38:6A:69:21:E9
+computador,PC5,10.0.0.12,68:FC:A5:88:DD:9F
+computador,PC6,192.168.1.12,5B:6E:F0:09:33:19
+computador,PC7,192.168.1.11,E7:30:81:9E:99:A3
+computador,PC8,192.168.1.10,13:84:69:E4:01:59
